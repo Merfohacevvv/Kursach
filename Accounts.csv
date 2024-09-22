@@ -1,0 +1,4 @@
+ID,ФИО,Логин,Пароль,Роль
+1,Иванов Иван Иванович,admin,admin123,Admin
+2,Сидоров Петр Петрович,tech,tech123,Technician
+3,Кузнецова Анна Сергеевна,client,client123,Client
